@@ -53,6 +53,20 @@ body{
     background-repeat: no-repeat;
     float:left;
 
+
+}
+
+.imgexcel1{
+    height: 400px;
+    width: 500px ;
+    background-image: url(funciones\ de\ excel.pnj.png);
+    background-repeat: no-repeat;
+}
+.imgexcel2{
+    height: 400px;
+    width: 500px;
+    background-image: url(img21.png);
+    background-repeat: no-repeat;
 }
 
     
