@@ -25,50 +25,53 @@ body{
 
 }
 
-.img1{
-    height: 193px;
-    width: 300px;
-    background-image: url("imagen.2.jpg");
-    background-repeat: no-repeat;
-    float: left;
-}
-.img2{
-    height: 193px;
-    width: 300px;
-    background-image: url("imagen.4.jpg..webp");
+.imgtec3{
+    height: 2000px;
+    width: 900px;
+    background-image: url(tecnologia3peng.jpg);
     background-repeat: no-repeat;
     float: right;
+
+
 }
-.img3{
-    height: 300px;
-    width: 300px;
-    background-image: url("imagen.sociales.jpg");
+
+
+
+
+
+.imging3,png.png{
+    height: 2000px;
+    width: 900px;
+    background-image: url(tecnologia3peng.jpg);
     background-repeat: no-repeat;
     float: right;
-}
-.img4{
-    height: 300px;
-    width: 300px;
-    background-image: url("imagen.ingles.jpg" );
-    background-repeat: no-repeat;
-    float:left;
 
 
 }
 
-.imgexcel1{
-    height: 400px;
-    width: 500px ;
-    background-image: url(funciones\ de\ excel.pnj.png);
+.imag.1.png{height: 2000px;
+    width: 900px;
+    background-image: url(imag.1.png);
     background-repeat: no-repeat;
+    float: right;
+
 }
-.
-.capturadetres{
-    height: 400px;
-    width: 500px;
-    background-image: url(img.capturadetres);
-    background-repeat: no-repeat;
-}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
 
     
     
